@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../Recursos"
+		},
+		{
+			"path": "../Alunos"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../C-62 V2 game lab template"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Recursos"
+	}
+}
